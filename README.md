@@ -1,4 +1,10 @@
 # PIZZA-SALES-REPORT
+
+In this pizza sales report we use excel , sql , powebi
+excel is for cleaning the data and analysing the data .
+sql is for caluclating the values.
+powerbi is for visualising the data and creating the dashboards.
+
 Situation:
 
       A pizza restaurant noticed fluctuations in its sales and wanted to analyze the performance of different pizza types, peak sales times, and customer preferences. 
