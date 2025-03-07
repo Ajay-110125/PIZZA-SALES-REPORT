@@ -1,6 +1,9 @@
 # PIZZA-SALES-REPORT
 Situation:
-      A pizza restaurant noticed fluctuations in its sales and wanted to analyze the performance of different pizza types, peak sales times, and customer preferences. The          management aimed to identify trends and improve sales strategies to boost revenue and customer satisfaction.
+
+      A pizza restaurant noticed fluctuations in its sales and wanted to analyze the performance of different pizza types, peak sales times, and customer preferences. 
+      
+      The management aimed to identify trends and improve sales strategies to boost revenue and customer satisfaction.
 
 Task:
 
