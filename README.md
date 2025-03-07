@@ -5,10 +5,12 @@ Situation:
 Task:
     The best-selling pizzas and worst selling ones.
     Peak sales days and sales trends over different months.
+    
 Action:
     Collected and analyzed sales data from the restaurant’s POS system over a specific period.
     Segmented data based on pizza type, size, categories,order, and time of purchase.
     Created visual reports (charts, tables) to highlight trends and patterns.
+    
 Result:
     Identified that Thai chicken pizza was the best-seller.
     Discovered that weekends Friday/Saturday had the highest sales, January and July months will contribute the most orders will be generated.
